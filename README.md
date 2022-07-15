@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MingMingFish
-- 👀 interested = "C, C#, Python"
+- 👀 interested = "C", "C#", "Python"
 - 🌱 learning = "Python"
 - 💞️ I’m looking to collaborate on "None"
 - 📫 How to reach me = "bridy0682@gmail.com"
